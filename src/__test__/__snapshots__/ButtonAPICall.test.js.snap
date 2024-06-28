@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonAPICall Component Test button matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      sneaky header hehehe
+    </h3>
+    <button>
+      Fetch Todos
+    </button>
+  </div>
+</DocumentFragment>
+`;
